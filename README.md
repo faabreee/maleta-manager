@@ -34,4 +34,4 @@ Este es mi primer proyecto académico de programación, creado como parte del ap
 1. Clona el repositorio o descarga el proyecto.
 2. Abre Eclipse y selecciona `File > Import > Existing Projects into Workspace`.
 3. Elige la carpeta del proyecto y haz clic en "Finish".
-4. Busca la clase principal (por ejemplo, `Main.java`) y ejecútala con clic derecho > Run As > Java Application.
+4. Busca la clase principal (por ejemplo, `Maleta.java`) y ejecútala con clic derecho > Run As > Java Application.
